@@ -8,3 +8,4 @@ tensorflow
 opencv-python-headless
 librosa
 face-recognition
+resampy
